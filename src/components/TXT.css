@@ -1,0 +1,170 @@
+/* NAVBAR */
+
+position: relative;
+width: 1366px;
+height: 70px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(0, 0, 0, 0.18);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 19.03%;
+right: 24.82%;
+top: 20%;
+bottom: 20%;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+left: 70.79%;
+right: 24.82%;
+top: 20%;
+bottom: 20%;
+
+background: rgba(251, 115, 17, 0.67);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 19.03%;
+right: 76.57%;
+top: 20%;
+bottom: 20%;
+
+background: rgba(196, 196, 196, 0.33);
+
+
+/* navbar-list */
+
+position: absolute;
+left: 19.03%;
+right: 76.57%;
+top: 20%;
+bottom: 20%;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+left: 19.03%;
+right: 76.57%;
+top: 20%;
+bottom: 20%;
+
+background: rgba(196, 196, 196, 0.01);
+
+
+/* ri:arrow-drop-down-fill */
+
+position: absolute;
+left: 21.23%;
+right: 77.01%;
+top: 30%;
+bottom: 35.71%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 41.67%;
+bottom: 41.67%;
+
+background: #000000;
+
+
+/* All */
+
+position: absolute;
+left: 20.2%;
+right: 78.77%;
+top: 40%;
+bottom: 40%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* ri:search-line */
+
+position: absolute;
+left: 72.11%;
+right: 26.13%;
+top: 32.86%;
+bottom: 32.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 7.03%;
+top: 8.33%;
+bottom: 7.03%;
+
+background: #000000;
+
+
+/* Buy */
+
+position: absolute;
+left: 81.63%;
+right: 16.18%;
+top: 34.29%;
+bottom: 22.86%;
+
+background: url(.png);
+
+
+/* DZ market */
+
+position: absolute;
+left: 3.07%;
+right: 81.63%;
+top: 7.14%;
+bottom: 18.57%;
+
+font-family: 'Rancho';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 43px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
